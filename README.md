@@ -1,1 +1,1 @@
-# Anlysis-on-Titanic-Dataset
+# Analysis-on-Titanic-Dataset
